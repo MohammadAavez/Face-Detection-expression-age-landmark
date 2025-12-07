@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# face_detection_landmark_age_expression
-=======
-# Face-Detection-expression-age-landmark
->>>>>>> 8599f91b8f0b8ecab6f08d2778ecf07cccbc4404
+-Built a Face Detection and Landmark Expression system.
+- Detects gender, age, and facial expressions such as anger, happiness, sadness, etc.
+- Generates facial landmarks for accurate expression analysis.
+- Technologies :- HTML , CSS , JavaScript , API’s 
