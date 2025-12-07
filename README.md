@@ -4,10 +4,7 @@
 - Technologies :- HTML , CSS , JavaScript , API’s
 
 -  OUTPUT IMAGES:-
-![Uploading Screenshot (2206).png…]()             ![Uploading Screenshot (2208).png…]()
 
-
--  ![Uploading Screenshot (2207).png…]()           ![Uploading Screenshot (2209).png…]()
-
+ 
 
   
